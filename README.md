@@ -20,13 +20,13 @@ You can also refer to the official guidelines for assistance: [Ways Learn About 
 
    Familiarize yourself with the core concepts of Scrum, including:
 
-- **Scrum framework**: Roles (Scrum Master, Product Owner, Development Team), events (Sprint, Sprint Planning, Daily Scrum, Sprint Review, Sprint Retrospective), and artifacts (Product Backlog, Sprint Backlog, Increment).
+- **Scrum framework**: Roles (Scrum Master, Product Owner, Development Team), events (Sprint, Sprint Planning, Daily Scrum, Sprint Review, Sprint Retrospective), and artifacts (Product Backlog, Sprint Backlog, Increment) [Scrum Framework](./DocFiles/Scrum%20Framework%20with%20sdo%20logo%209.29.23.pdf)
 - **Agile Manifesto**: The four values and twelve principles.
 - **Scrum Guide**: It’s the official guide to Scrum and free to download from Scrum.org.
 
    **Resources**:
 
-- **Scrum Guide**: [Scrum.org](https://www.scrum.org/resources/scrum-guide) OR Download here [PDF](DocFiles/2020-Scrum-Guide-US.pdf)
+- **Scrum Guide**: [Scrum.org](https://www.scrum.org/resources/scrum-guide) or download here [PDF](DocFiles/2020-Scrum-Guide-US.pdf)
 - **Agile Manifesto**: [AgileManifesto.org](http://agilemanifesto.org/)
 - **Other resources on GitHub**: [GitHub resources](https://github.com/search?q=scrum+master+study&type=repositories&s=stars&o=desc)
 
