@@ -26,7 +26,7 @@ You can also refer to the official guidelines for assistance: [Ways Learn About 
 
    **Resources**:
 
-- **Scrum Guide**: [Scrum.org](https://www.scrum.org/resources/scrum-guide) OR Download here [PDF](DocFiles\2020-Scrum-Guide-US.pdf)
+- **Scrum Guide**: [Scrum.org](https://www.scrum.org/resources/scrum-guide) OR Download here [PDF](DocFiles/2020-Scrum-Guide-US.pdf)
 - **Agile Manifesto**: [AgileManifesto.org](http://agilemanifesto.org/)
 - **Other resources on GitHub**: [GitHub resources](https://github.com/search?q=scrum+master+study&type=repositories&s=stars&o=desc)
 
