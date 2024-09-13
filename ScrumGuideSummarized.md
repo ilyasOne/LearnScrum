@@ -1,6 +1,6 @@
 # Scrum Guide Summarized
 
-First things first. A **Scrum Team** is a group of individuals working together to deliver the products and solutions in an [Agile](AgileMenifesto.md) environment using the Scrum framework. The team is typically composed of three key roles (later explained): Product Owner, Scrum Master, Development Team (=is cross-functional).
+First things first. A **Scrum Team** is a group of individuals working together to deliver the products and solutions in an [Agile](AgileMenifesto.md) environment using the [Scrum framework](DocFiles\Scrum Framework with sdo logo 9.29.23.pdf). The team is typically composed of three key roles (later explained): Product Owner, Scrum Master, Development Team (=is cross-functional).
 
 ## Scrum Definition
 
