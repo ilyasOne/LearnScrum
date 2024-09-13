@@ -173,7 +173,45 @@ The Scrum Team may also invite others to provide advice during Sprint Planning.
 
 **Topic 1: Why is this Sprint valuable?**
 
-The Product Owner proposes how the product could increase its** value and usability** in the current Sprint.
+The Product Owner proposes how the product could increase its **value and usability** in the current Sprint.
 The entire Scrum Team collaborates **to define a Sprint Goal** that explains the **Sprint's value** to stakeholders.
 This Sprint Goal must be **finalized** before Sprint Planning concludes.
 
+**Topic 2: What can be Done this Sprint?**
+
+Through discussions with the Product Owner, developers select and refine items from the Product Backlog for the current Sprint to enhance understanding and confidence. Although estimating Sprint capacity can be challenging, familiarity with past performance, future capacity, and the Definition of Done improves forecast accuracy.
+
+**Topic Three: How will the chosen work get done?**
+
+Developers plan the work for each selected Product Backlog item to create an Increment that meets the Definition of Done, often breaking items into smaller tasks ( one day or less). The Sprint Goal, selected Product Backlog items, and the delivery plan form the Sprint Backlog. Sprint Planning is timeboxed to a maximum of eight hours for a one-month Sprint, with shorter Sprints having shorter planning sessions.
+
+## Daily Scrum
+
+The Daily Scrum is a 15-minute event for Developers to inspect progress toward the Sprint Goal and adjust the Sprint Backlog as needed.
+If the Product Owner or Scrum Master are actively working on items in the Sprint Backlog, they participate as Developers.
+Held at the same time and place each day, it;
+
+- improves communication
+- identifies impediments
+- promotes quick decision-making
+- reducing the need for other meetings
+- creates focus and improves self-management
+
+## Sprint Review
+
+The Sprint Review inspects the Sprint's **outcome and plans future adaptations**. The Scrum Team **presents their work to stakeholders**, discussing progress toward the Product Goal. This collaborative session reviews accomplishments and changes, adjusting the Product Backlog as needed. Timeboxed to four hours for a one-month Sprint.
+
+## Sprint Retrospective
+
+The Sprint Retrospective aims to enhance quality and effectiveness by reviewing the last Sprint's performance, identifying successes and problems, and planning improvements. Timeboxed to three hours for a one-month Sprint, it concludes the Sprint and may add improvements to the next Sprint Backlog.
+
+## Scrum Artifacts
+
+Scrum’s artifacts represent work or value. They are designed to maximize transparency of key information.
+Each artifact contains a commitment to ensure it provides information that enhances transparency and focus against which progress can be measured:
+
+- For the Product Backlog it is the Product Goal.
+- For the Sprint Backlog it is the Sprint Goal.
+- For the Increment it is the Definition of Done.
+
+These commitments exist to reinforce empiricism and the Scrum values for the Scrum Team and their stakeholders.
