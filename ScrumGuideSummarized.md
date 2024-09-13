@@ -118,23 +118,49 @@ The Product Owner is **one person**, not a committee and is responsible for the 
 
 The Scrum Master is responsible for establishing Scrum as outlined in the Scrum Guide by helping everyone understand Scrum theory and practice, both within the Scrum Team and the organization. Additionally, the Scrum Master ensures that the Scrum Team improves its practices within the Scrum framework.
 
-The Scrum Master supports the **Scrum Team** in various ways, including:
+*The Scrum Master* supports the **Scrum Team** in various ways, including:
 
 - **Coaching** team members in self-management and cross-functionality.
 - **Helping** the Scrum Team focus on creating high-value Increments that meet the Definition of Done.
 - **Removing impediments** to the Scrum Team’s progress.
 - Ensuring all **Scrum events are positive, productive, and kept within the timebox**.
 
-The Scrum Master supports the **Product Owner** in various ways, including:
+*The Scrum Master* supports the **Product Owner** in various ways, including:
 
-- Assisting in defining effective Product Goals and managing the Product Backlog.
-- Helping the Scrum Team recognize the importance of clear and concise Product Backlog items.
-- Establishing empirical product planning for complex environments.
-- Facilitating stakeholder collaboration as needed or requested.
+- **Assisting** in defining effective Product Goals and managing the Product Backlog.
+- **Helping** the Scrum Team recognize the importance of clear and concise Product Backlog items.
+- **Establishing** empirical product planning for complex environments.
+- **Facilitating** stakeholder collaboration as needed or requested.
 
 The Scrum Master supports the **organization** by:
 
-- Leading, training, and coaching in Scrum adoption.
-- Planning and advising on Scrum implementations.
-- Helping employees and stakeholders adopt an empirical approach for complex work.
-- Removing barriers between stakeholders and Scrum Teams.
+- **Leading**, training, and coaching in Scrum adoption.
+- **Planning and advising** on Scrum implementations.
+- **Helping** employees and stakeholders adopt an empirical approach for complex work.
+- **Removing barriers** between stakeholders and Scrum Teams.
+
+## Scrum Events
+
+The Sprint includes all other Scrum events, providing formal opportunities to inspect and adapt Scrum artifacts. These events are designed to ensure the necessary transparency. When events do not proceed as planned, opportunities for inspection and adjustment are missed. Scrum events create regularity and minimize the need for additional meetings. Ideally, all events are held at the same time and place to reduce complexity.
+
+## The Sprint
+
+Sprints are the heartbeat of Scrum, where **ideas are turned into value**.
+
+All the work necessary to achieve **the Product Goal**, including **Sprint Planning**, **Daily Scrums**, **Sprint Review**, and **Sprint Retrospective**, happen within Sprints.
+
+During the Sprint:
+
+- **No changes are made that risks the Sprint Goal**.
+- **Quality** stays consistent.
+- The Product Backlog is **refined as necessary**.
+- ***Scope* can be clarified and renegotiated** with the Product Owner as new information emerges.
+
+Sprints ensure predictability by allowing for regular **inspection and adaptation** towards the Product Goal, at least once a month.
+If a Sprint is **too long**, the Sprint Goal may become **invalid, complexity may increase, and risks may rise**.
+Shorter Sprints can generate more learning cycles and limit the risk of cost and effort to a smaller timeframe, treating each Sprint as a short project.
+
+Various practices like burn-downs, burn-ups, or cumulative flows can forecast progress, but they do not replace the importance of empiricism.
+**In complex environments, only past events can inform future decisions.**
+
+A Sprint can be **canceled** if the Sprint Goal becomes obsolete, and only the **Product Owner has the authority to cancel it**.
