@@ -40,13 +40,13 @@ In Scrum, a popular Agile framework for managing complex projects, there are **f
 
 Here's a breakdown of **four formal events**:
 
-1. **Sprint Planning**: This event kicks off the Sprint. The team collaborates to define what can be delivered in the upcoming Sprint and how that work will be achieved. This ensures transparency about the team's goals and plans.
+1. **[Sprint Planning](#sprint-planning)**: This event kicks off the Sprint. The team collaborates to define what can be delivered in the upcoming Sprint and how that work will be achieved. This ensures transparency about the team's goals and plans.
 
-2. **Daily Scrum**: A short, daily meeting (usually 15 minutes) where team members inspect their progress towards the Sprint Goal and adapt their plan for the next 24 hours. This promotes transparency and allows for quick adjustments.
+2. **[Daily Scrum](#daily-scrum)**: A short, daily meeting (usually 15 minutes) where team members inspect their progress towards the Sprint Goal and adapt their plan for the next 24 hours. This promotes transparency and allows for quick adjustments.
 
-3. **Sprint Review**: Held at the end of the Sprint, this event involves the team presenting the work completed during the Sprint to stakeholders. Feedback is gathered, which helps in inspecting the outcome and adapting future work.
+3. **[Sprint Review](#sprint-review)**: Held at the end of the Sprint, this event involves the team presenting the work completed during the Sprint to stakeholders. Feedback is gathered, which helps in inspecting the outcome and adapting future work.
 
-4. **Sprint Retrospective**: This is the final event of the Sprint, where the team reflects on the past Sprint to identify improvements. They discuss what went well, what didn't, and how processes can be adapted to improve future Sprints.
+4. **[Sprint Retrospective](#sprint-retrospective)**: This is the final event of the Sprint, where the team reflects on the past Sprint to identify improvements. They discuss what went well, what didn't, and how processes can be adapted to improve future Sprints.
 
 These events are all contained within the Sprint, which acts as a container event. They work effectively because they embody the three pillars of Scrum:
 
@@ -181,7 +181,7 @@ This Sprint Goal must be **finalized** before Sprint Planning concludes.
 
 Through discussions with the Product Owner, developers select and refine items from the Product Backlog for the current Sprint to enhance understanding and confidence. Although estimating Sprint capacity can be challenging, familiarity with past performance, future capacity, and the Definition of Done improves forecast accuracy.
 
-**Topic Three: How will the chosen work get done?**
+**Topic 3: How will the chosen work get done?**
 
 Developers plan the work for each selected Product Backlog item to create an Increment that meets the Definition of Done, often breaking items into smaller tasks ( one day or less). The Sprint Goal, selected Product Backlog items, and the delivery plan form the Sprint Backlog. Sprint Planning is timeboxed to a maximum of eight hours for a one-month Sprint, with shorter Sprints having shorter planning sessions.
 
@@ -215,3 +215,50 @@ Each artifact contains a commitment to ensure it provides information that enhan
 - For the Increment it is the Definition of Done.
 
 These commitments exist to reinforce empiricism and the Scrum values for the Scrum Team and their stakeholders.
+
+## Product Backlog
+
+The Product Backlog is a **prioritized** list of improvements for the product, serving as the **single** work source for the **Scrum Team**.
+Product Backlog Items ready for a Sprint are refined and detailed by the Developers, **with the Product Owner assisting in understanding and selecting trade-offs.**
+
+## Commitment: Product Goal
+
+The Product Goal outlines a **future state of the product**, guiding the Scrum Team's planning.
+The Product Goal is in the **Product Backlog**, which evolves to detail what will achieve the Product Goal.
+The Product Goal is the **long-term objective** for the Scrum Team.
+The Scrum Team must complete one Product Goal before moving to the next.
+A product delivers value, has clear boundaries, stakeholders, and defined users.
+A product could be a service, a physical product, or something more abstract.
+
+## Sprint Backlog
+
+The Sprint Backlog includes the Sprint Goal, selected Product Backlog items, and a plan for delivering the Increment. It is a real-time, detailed plan by the Developers, updated throughout the Sprint to track progress and achieve the Sprint Goal.
+
+## Commitment: Sprint Goal
+
+The Sprint Goal is the **main objective** for the Sprint, providing flexibility in the work needed to achieve it and fostering team coherence and focus. Created during Sprint Planning and added to the Sprint Backlog, it guides the Developers, who collaborate with the Product Owner to adjust the scope if needed without changing the Sprint Goal.
+
+## Increment
+
+An Increment is a **verified, usable step** toward the Product Goal, additive to prior Increments. Multiple Increments can be created within a Sprint and presented at the Sprint Review (demo), but they can also be delivered to stakeholders earlier if they meet the **Definition of Done**.
+
+## Commitment: Definition of Done
+
+The Definition of Done is a formal description of the Increment's quality standards, ensuring transparency and shared understanding.
+If a Product Backlog item meets this Definition of Done, it becomes an Increment; otherwise, it returns to the backlog.
+All Scrum Teams must adhere to the Definition of Done, whether it's an organizational standard or created by the team.
+
+## End Note
+
+Scrum is freely available in this Guide, is immutable and must be implemented in its entirety to be considered Scrum.
+It serves as a framework that can incorporate other techniques, methodologies, and practices.
+
+## People
+
+Jeff Sutherland, Jeff McKenna, John Scumniotales, Ken Schwaber, Mike Smith, and Chris Martin were key contributors to the early development of Scrum. Many others have since refined Scrum, making it what it is today.
+
+## Scrum Guide History
+
+Ken Schwaber and Jeff Sutherland first presented Scrum at the **1995 OOPSLA Conference**, formalizing their previous learnings.
+The Scrum Guide, developed by them over 30 years, documents Scrum, while other sources offer complementary insights to enhance its effectiveness.
+@2020 Ken Schwaber and Jeff Sutherland.
