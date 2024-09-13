@@ -3,7 +3,7 @@
 Learn and prepare for the Scrum Master exam
 
 Preparing for the Scrum Master certification exam requires a structured approach, focusing on understanding Agile principles, Scrum methodology, and the specific guidelines of the exam you're taking (e.g., **Certified ScrumMaster (CSM)** or **Professional Scrum Master (PSM)**).
-You can also refer to the official guidelines for assistance: [Scrum org](https://www.scrum.org/resources/suggested-reading-professional-scrum-master)
+You can also refer to the official guidelines for assistance: [Scrum org](https://www.scrum.org)
 
 ## 1. **Choose the Right Certification**
 
