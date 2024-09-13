@@ -3,7 +3,7 @@
 Learn and prepare for the Scrum Master exam
 
 Preparing for the Scrum Master certification exam requires a structured approach, focusing on understanding Agile principles, Scrum methodology, and the specific guidelines of the exam you're taking (e.g., **Certified ScrumMaster (CSM)** or **Professional Scrum Master (PSM)**).
-You can also refer to the official guidelines for assistance: [Scrum org](https://www.scrum.org)
+Please refer to the official guidelines for assistance <https://www.scrum.org>
 
 ## 1. **Choose the Right Certification**
 
@@ -27,7 +27,7 @@ You can also refer to the official guidelines for assistance: [Scrum org](https:
    **Resources**:
 
 - **Scrum Guide**: [Scrum.org](https://www.scrum.org/resources/scrum-guide) or download here [PDF](DocFiles/2020-Scrum-Guide-US.pdf)
-- **Agile Manifesto**: [Here](AgileMenifesto.md) and there [AgileManifesto.org](http://agilemanifesto.org/) 
+- **Agile Manifesto**: [Here](AgileMenifesto.md) and there [AgileManifesto.org](http://agilemanifesto.org/)
 - **Other resources on GitHub**: [GitHub resources](https://github.com/search?q=scrum+master+study&type=repositories&s=stars&o=desc)
 
 ### 3. **Attend a Course (Optional for Some Exams)**
