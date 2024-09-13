@@ -164,3 +164,16 @@ Various practices like burn-downs, burn-ups, or cumulative flows can forecast pr
 **In complex environments, only past events can inform future decisions.**
 
 A Sprint can be **canceled** if the Sprint Goal becomes obsolete, and only the **Product Owner has the authority to cancel it**.
+
+## Sprint Planning
+
+Sprint Planning kicks off the Sprint by outlining the work to be done, created collaboratively by the entire Scrum Team.
+The Product Owner ensures attendees are ready to discuss the key Product Backlog items and their alignment with the Product Goal.
+The Scrum Team may also invite others to provide advice during Sprint Planning.
+
+**Topic 1: Why is this Sprint valuable?**
+
+The Product Owner proposes how the product could increase its** value and usability** in the current Sprint.
+The entire Scrum Team collaborates **to define a Sprint Goal** that explains the **Sprint's value** to stakeholders.
+This Sprint Goal must be **finalized** before Sprint Planning concludes.
+
