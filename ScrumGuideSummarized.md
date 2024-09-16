@@ -1,10 +1,10 @@
 # Scrum Guide Summarized
 
 First things first. A **Scrum Team** is a group of individuals working together to deliver the products and solutions in an [Agile](AgileMenifesto.md) environment using the [Scrum framework](DocFiles/Scrum-Framework-with-sdo-logo-9.29.23.pdf).\
-The **Scrum Team** is typically composed of three key roles (later explained):\
+The **Scrum Team** is typically composed of three key roles (later explained):
 
-- Product Owner\
-- Scrum Master\
+- Product Owner
+- Scrum Master
 - Development Team (=is cross-functional).
 
 ## Scrum Definition
@@ -43,7 +43,7 @@ Scrum combines **four formal events** for inspection and adaptation within a con
 
 In Scrum, a popular Agile framework for managing complex projects, there are **four formal key events** that occur within each Sprint (**a time-boxed period** usually 2-4 weeks, during which a specific set of work is completed).
 
-Here's a breakdown of **four formal events**:
+Here's a breakdown of **four formal Sprint events**:
 
 1. **[Sprint Planning](#sprint-planning)**: This event kicks off the Sprint. The team collaborates to define what can be delivered in the upcoming Sprint and how that work will be achieved. This ensures transparency about the team's goals and plans.
 
