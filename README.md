@@ -19,7 +19,7 @@ Preparing for the Scrum Master certification exam requires a structured approach
 
    Familiarize yourself with the core concepts of Scrum, including:
 
-- **Scrum Guide**: [Scrum.org](https://www.scrum.org/resources/scrum-guide) or download here [PDF](DocFiles/2020-Scrum-Guide-US.pdf) or read #summarized version [here](ScrumGuideSummarized.md)
+- **Scrum Guide**: [Scrum.org](https://www.scrum.org/resources/scrum-guide) or download here [PDF](DocFiles/2020-Scrum-Guide-US.pdf) or read **SUMMARISED** version [here](ScrumGuideSummarized.md)
 - **Scrum framework**:\
       -  **Roles** (Scrum Master, Product Owner, Development Team)\
       -  **Events** (Sprint, Sprint Planning, Daily Scrum, Sprint Review, Sprint Retrospective)\
