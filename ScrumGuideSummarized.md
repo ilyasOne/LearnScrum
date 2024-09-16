@@ -1,6 +1,7 @@
 # Scrum Guide Summarized
 
-First things first. A **Scrum Team** is a group of individuals working together to deliver the products and solutions in an [Agile](AgileMenifesto.md) environment using the [Scrum framework](DocFiles/Scrum-Framework-with-sdo-logo-9.29.23.pdf). The team is typically composed of three key roles (later explained): Product Owner, Scrum Master, Development Team (=is cross-functional).
+First things first. A **Scrum Team** is a group of individuals working together to deliver the products and solutions in an [Agile](AgileMenifesto.md) environment using the [Scrum framework](DocFiles/Scrum-Framework-with-sdo-logo-9.29.23.pdf).
+The team is typically composed of three key roles (later explained): Product Owner, Scrum Master, Development Team (=is cross-functional).
 
 ## Scrum Definition
 
@@ -261,4 +262,27 @@ Jeff Sutherland, Jeff McKenna, John Scumniotales, Ken Schwaber, Mike Smith, and 
 
 Ken Schwaber and Jeff Sutherland first presented Scrum at the **1995 OOPSLA Conference**, formalizing their previous learnings.
 The Scrum Guide, developed by them over 30 years, documents Scrum, while other sources offer complementary insights to enhance its effectiveness.
-@2020 Ken Schwaber and Jeff Sutherland.
+
+
+
+## Take-a-ways
+
+## COURAGE
+
+**Scrum Team** members have the **courage** to do the right thing and work on (difficult) problems.
+
+## FOCUS
+
+Everyone is focused on the work of the **Sprint** and the goals of the **Scrum Team**.
+
+## COMMITMENT
+
+People are personally committed to achieving the goals of the **Scrum Team**.
+
+## RESPECT
+
+**Scrum Team** members respect each other to be capable, independent people.
+
+## OPENNESS
+
+The **Scrum Team** and its stakeholders agree to be open about **all work** and the **challenges** of doing the work.

@@ -1,7 +1,7 @@
 # Learn (study) and prepare for the Scrum Master exam
 
 Preparing for the Scrum Master certification exam requires a structured approach, focusing on understanding Agile principles, Scrum methodology, and the specific guidelines of the exam you're taking (e.g., **Certified ScrumMaster (CSM)** or **Professional Scrum Master (PSM)**).
-**Please refer to the official guidelines [here](https://www.scrum.org)**
+**Please refer to the official resources [here](https://www.scrum.org)**
 
 ## 1. **Choose the Right Certification**
 
@@ -18,13 +18,16 @@ Preparing for the Scrum Master certification exam requires a structured approach
 
    Familiarize yourself with the core concepts of Scrum, including:
 
-- **Scrum framework**: Roles (Scrum Master, Product Owner, Development Team), events (Sprint, Sprint Planning, Daily Scrum, Sprint Review, Sprint Retrospective), and artifacts (Product Backlog, Sprint Backlog, Increment). See poster [Scrum Framework](./DocFiles/Scrum%20Framework%20with%20sdo%20logo%209.29.23.pdf)
-- **Agile Manifesto**: The four values and twelve principles.
-- **Scrum Guide**: It’s the official guide to Scrum and free to download from Scrum.org.
-
    **Resources**:
 
-- **Scrum Guide**: [Scrum.org](https://www.scrum.org/resources/scrum-guide) or download here [PDF](DocFiles/2020-Scrum-Guide-US.pdf)
+- **Scrum Guide**: [Scrum.org](https://www.scrum.org/resources/scrum-guide) or download here [PDF](DocFiles/2020-Scrum-Guide-US.pdf) or read **summarized** version [here](ScrumGuideSummarized.md)
+- **Scrum framework**:
+      -  **Roles** (Scrum Master, Product Owner, Development Team)
+      -  **Events** (Sprint, Sprint Planning, Daily Scrum, Sprint Review, Sprint Retrospective)
+      -  **Artifacts** (Product Backlog, Sprint Backlog, Increment)
+
+   See poster [Scrum Framework](./DocFiles/Scrum-Framework-with-sdo-logo-9.29.23.pdf)
+
 - **Agile Manifesto**: [Here](AgileMenifesto.md) and there [AgileManifesto.org](http://agilemanifesto.org/)
 - **Other resources on GitHub**: [GitHub resources](https://github.com/search?q=scrum+master+study&type=repositories&s=stars&o=desc)
 
@@ -35,18 +38,22 @@ Preparing for the Scrum Master certification exam requires a structured approach
 
 ### 4. **Study Materials**
 
-- **Scrum Guide**: Read and understand the Scrum Guide [here](https://www.scrum.org/learning-series/what-is-scrum/what-is-scrum). It's a foundational document for most certifications, especially PSM.
+- **Scrum Guide**: Read and understand the Scrum Guide [here](https://www.scrum.org/learning-series/what-is-scrum/what-is-scrum). It's a foundational document for most certifications, especially PSM. Or read the **summarized** version [here](ScrumGuideSummarized.md)
 - **Agile books**:
   - *“Scrum: The Art of Doing Twice the Work in Half the Time”* by Jeff Sutherland [on Amazon](https://www.amazon.com/Scrum-Doing-Twice-Work-Half/dp/038534645X)
   - *“Essential Scrum”* by Kenneth Rubin [on Amazon](https://www.amazon.com/Essential-Scrum-Practical-Addison-Wesley-Signature/dp/0137043295)
-- **Scrum forums and communities**: Join communities like the Scrum.org forums to learn from real-world experiences.
+  - And many other scrum books [on Amazon](https://www.amazon.com/s?k=scrum+books&i=stripbooks&crid=31F488GPJ81J1&sprefix=Scrum+%2Cstripbooks%2C170&ref=nb_sb_ss_ts-doa-p_2_6)
+
+- **Scrum forums and communities**: Join communities like the Scrum.org **forums** to learn from real-world experiences.
 
 ### 5. **Use Practice Exams**
 
    Practice exams are crucial for getting familiar with the exam format and types of questions. You can find several practice tests for different certifications:
 
 - **For CSM**: Scrum Alliance provides mock tests.
-- **For PSM**: Scrum.org offers open assessments [here](https://www.scrum.org/open-assessments).
+- **For PSM**:
+      -  Scrum.org offers open assessments [here](https://www.scrum.org/open-assessments).
+      -  By AI generated multiple-choice questions [here](ScrumGuideMultipleChoiceQuestions.pdf)
 
 ### 6. **Prepare for Specific Exam Types**
 
@@ -57,7 +64,7 @@ Preparing for the Scrum Master certification exam requires a structured approach
   - Multiple-choice, true/false, and multiple-answer.
   - It’s more challenging and tests deeper knowledge of Scrum.
   - Passing score (for example) : 85%.
-- For either, you should aim to understand **how** and **why** Scrum is applied rather than memorizing answers.
+  - For either, you should aim to understand **how** and **why** Scrum is applied rather than memorizing answers.
 
 ### 7. **Join Study Groups**
 
@@ -70,9 +77,11 @@ Preparing for the Scrum Master certification exam requires a structured approach
 ### 9. **Exam Day Tips**
 
 - Ensure you understand the **time limit** and structure of the exam.
-- Read each question carefully, eliminating obvious wrong answers.
-- For the PSM exam, pay attention to time since it's time-pressured (60 minutes for 80 questions).
+- Read each question carefully, **eliminating** obvious wrong answers.
+- For the PSM exam, pay attention to time since it's time-pressured (fro example: 60 minutes for 80 questions).
 
 ---
 
-By focusing on theory, practical experience, and mock exams, you’ll be well-prepared to take and pass your Scrum Master exam!
+By focusing on theory, practical experience, and mock exams, you’ll be well-prepared to take and pass your Scrum Master exam.
+
+Succes!
