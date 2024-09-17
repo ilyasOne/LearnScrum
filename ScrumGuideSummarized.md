@@ -1,6 +1,7 @@
 # Scrum Guide Summarized
 
-First things first. A **Scrum Team** is a group of individuals working together to deliver the products and solutions in an [Agile](AgileMenifesto.md) environment using the [Scrum framework](DocFiles/Scrum-Framework-with-sdo-logo-9.29.23.pdf).\
+A **Scrum Team** is a group of individuals working together to deliver the products and solutions in an [Agile](AgileMenifesto.md) environment using the [Scrum framework](DocFiles/Scrum-Framework-with-sdo-logo-9.29.23.pdf).
+
 The **Scrum Team** is typically composed of three key roles (later explained):
 
 - Product Owner
@@ -19,9 +20,9 @@ Scrum involves a Scrum Master creating an environment where:
 - Both the **team and stakeholders** review and adjust for the next Sprint
 - And **repeating** this cycle continuously.
 
-Scrum is **simple** and should be tried as is to see if it helps achieve goals and create value.
-The framework is **purposefully incomplete**, defining only the necessary parts to implement Scrum theory.
-It is built upon the **collective intelligence** of its users.
+Scrum is **simple** and should be tried as is to see if it helps achieve goals and create value.\
+The Scrum framework is **purposefully incomplete**, defining only the necessary parts to implement Scrum theory.\
+It is built upon the **collective intelligence** of its users.\
 The rules guide **relationships and interactions** rather than providing detailed instructions.
 
 - Various **processes, techniques, and methods** can be used within the Scrum framework.
@@ -36,12 +37,12 @@ Scrum is founded on **empiricism** and **lean thinking**.
 - **Empiricism** asserts that knowledge comes from experience and making decisions based on what is observed.
 - **Lean thinking** reduces waste and focuses on the essentials.
 
-Scrum uses an **iterative, incremental approach to optimize predictability and control risk**.
-It **engages groups** with all necessary skills and expertise to complete the work.
-Team members **share or acquire** skills as needed.
+Scrum uses an **iterative, incremental approach to optimize predictability and control risk**.\
+It **engages groups** with all necessary skills and expertise to complete the work.\
+Scrum Team members **share or acquire** skills as needed.\
 Scrum combines **four formal events** for inspection and adaptation within a containing event, the Sprint.
 
-In Scrum, a popular Agile framework for managing complex projects, there are **four formal key events** that occur within each Sprint (**a time-boxed period** usually 2-4 weeks, during which a specific set of work is completed).
+In Scrum, a popular [Agile framework](docfiles/Agile-Framework.png) for managing complex projects, there are **four formal key events** that occur within each Sprint (**a time-boxed period** usually 2-4 weeks, during which a specific set of work is completed).
 
 Here's a breakdown of **four formal Sprint events**:
 
@@ -78,17 +79,17 @@ When these artifacts **lack transparency**, it can result in decisions that redu
 Successful use of Scrum depends on people becoming more proficient in living five values:
 
 - **Commitment**: The Scrum Team is dedicated (commits) to reaching its goals and helping one another.
-- **Focus**: Their main focus is on the Sprint work to achieve the best possible progress toward these goals.
+- **Focus**: The Scrum Team main focus is on the Sprint work to achieve the best possible progress toward these goals.
 - **Openness**: The Scrum Team and its stakeholders are clear about the work and the challenges they face.
-- **Respect**: Scrum Team members respect each other as capable, independent individuals and are respected in the same way by their colleagues.
-- **Courage**: Scrum Team members have the courage to do the right thing and tackle difficult problems.
+- **Respect**: The Scrum Team members respect each other as capable, independent individuals and are respected in the same way by their colleagues.
+- **Courage**: The Scrum Team members have the courage to do the right thing and tackle difficult problems.
 
 ## Scrum Team
 
 The core unit of **Scrum is a small team** known as the Scrum Team. This team **includes one Scrum Master, one Product Owner, and Developers**. There are *NO  sub-teams or hierarchies within a Scrum Team*. It is a unified group of **professionals** dedicated to a **single objective at a time**: the Product Goal.
 **Scrum Teams are cross-functional**, with members possessing all the skills needed to create value each Sprint. **They are also self-managing**, deciding internally who does what, when, and how.
 
-Smaller teams communicate more effectively and are more productive. If Scrum Teams grow too large, they should consider splitting into multiple cohesive Scrum Teams, each focused on the same product. These teams should **share** the same Product **Goal**, Product **Backlog**, and Product **Owner**.
+Smaller teams communicate more effectively and are more productive. If Scrum Teams grow too large, they should consider splitting into multiple cohesive Scrum Teams, each focused on the same product. These teams should **share** the **same** Product **Goal**, Product **Backlog**, and Product **Owner**.
 
 The Scrum Team handles all product-related tasks, including stakeholder collaboration, verification, maintenance, operation, experimentation, research and development, and any other necessary activities.
 
@@ -112,7 +113,7 @@ The Product Owner is also responsible for effective Product Backlog management, 
 
 - Developing and clearly communicating the **Product Goal**.
 - Creating and clearly communicating **Product Backlog** items.
-- Ordering Product **Backlog items**.
+- Ordering (prioritizing) Product **Backlog items**.
 - Ensuring the Product Backlog is **transparent, visible, and understood**.
 
 The Product Owner's decisions should be evident in the content and prioritization of the Product Backlog, as well as in the inspectable Increment presented at the Sprint Review.
@@ -126,9 +127,9 @@ The Scrum Master is responsible for establishing Scrum as outlined in the Scrum 
 *The Scrum Master* supports the **Scrum Team** in various ways, including:
 
 - **Coaching** team members in self-management and cross-functionality.
+- Ensuring all **Scrum events are positive, productive, and kept within the timebox**.
 - **Helping** the Scrum Team focus on creating high-value Increments that meet the Definition of Done.
 - **Removing impediments** to the Scrum Team’s progress.
-- Ensuring all **Scrum events are positive, productive, and kept within the timebox**.
 
 *The Scrum Master* supports the **Product Owner** in various ways, including:
 
@@ -184,11 +185,11 @@ This Sprint Goal must be **finalized** before Sprint Planning concludes.
 
 **Topic 2: What can be Done this Sprint?**
 
-Through discussions with the Product Owner, developers select and refine items from the Product Backlog for the current Sprint to enhance understanding and confidence. Although estimating Sprint capacity can be challenging, familiarity with past performance, future capacity, and the Definition of Done improves forecast accuracy.
+Through discussions with the Product Owner, developers select and refine items from the Product Backlog for the current Sprint Backlog to enhance understanding and confidence. Although estimating Sprint capacity can be challenging, familiarity with past performance, future capacity, and the Definition of Done improves forecast accuracy.
 
 **Topic 3: How will the chosen work get done?**
 
-Developers plan the work for each selected Product Backlog item to create an Increment that meets the Definition of Done, often breaking items into smaller tasks ( one day or less). The Sprint Goal, selected Product Backlog items, and the delivery plan form the Sprint Backlog. Sprint Planning is timeboxed to a maximum of eight hours for a one-month Sprint, with shorter Sprints having shorter planning sessions.
+Developers plan the work for each selected Product Backlog item to create an Increment that meets the Definition of Done, often breaking items into smaller tasks ( one day or less). The Sprint Goal, selected Product Backlog items, and the delivery plan form the Sprint Backlog. Sprint Planning is timeboxed to a maximum of eight hours(8) for a one-month Sprint, with shorter Sprints having shorter planning sessions.
 
 ## Daily Scrum
 
@@ -204,11 +205,11 @@ Held at the same time and place each day, it;
 
 ## Sprint Review
 
-The Sprint Review inspects the Sprint's **outcome and plans future adaptations**. The Scrum Team **presents their work to stakeholders**, discussing progress toward the Product Goal. This collaborative session reviews accomplishments and changes, adjusting the Product Backlog as needed. Timeboxed to four hours for a one-month Sprint.
+The Sprint Review inspects the Sprint's **outcome and plans future adaptations**. The Scrum Team **presents their work to stakeholders**, discussing progress toward the Product Goal. This collaborative session reviews accomplishments and changes, adjusting the Product Backlog as needed. Timeboxed to four(4) hours for a one-month Sprint.
 
 ## Sprint Retrospective
 
-The Sprint Retrospective aims to enhance quality and effectiveness by reviewing the last Sprint's performance, identifying successes and problems, and planning improvements. Timeboxed to three hours for a one-month Sprint, it concludes the Sprint and may add improvements to the next Sprint Backlog.
+The Sprint Retrospective aims to enhance quality and effectiveness by reviewing the last Sprint's performance, identifying successes and problems, and planning improvements. Timeboxed to three(3) hours for a one-month Sprint, it concludes the Sprint and may add improvements to the next Sprint Backlog.
 
 ## Scrum Artifacts
 
@@ -219,7 +220,7 @@ Each artifact contains a commitment to ensure it provides information that enhan
 - For the Sprint Backlog it is the Sprint Goal.
 - For the Increment it is the Definition of Done.
 
-These commitments exist to reinforce empiricism and the Scrum values for the Scrum Team and their stakeholders.
+These commitments exist to reinforce empiricism and the Scrum Values for the Scrum Team and their Stakeholders.
 
 ## Product Backlog
 
@@ -228,20 +229,22 @@ Product Backlog Items ready for a Sprint are refined and detailed by the Develop
 
 ## Commitment: Product Goal
 
-The Product Goal outlines a **future state of the product**, guiding the Scrum Team's planning.
-The Product Goal is in the **Product Backlog**, which evolves to detail what will achieve the Product Goal.
-The Product Goal is the **long-term objective** for the Scrum Team.
-The Scrum Team must complete one Product Goal before moving to the next.
-A product delivers value, has clear boundaries, stakeholders, and defined users.
+The Product Goal outlines a **future state of the product**, guiding the Scrum Team's planning.\
+The Product Goal is in the **Product Backlog**, which evolves to detail what will achieve the Product Goal.\
+The Product Goal is the **long-term objective** for the Scrum Team.\
+The Scrum Team must complete one Product Goal before moving to the next.\
+A product delivers value, has clear boundaries, stakeholders, and defined users.\
 A product could be a service, a physical product, or something more abstract.
 
 ## Sprint Backlog
 
-The Sprint Backlog includes the Sprint Goal, selected Product Backlog items, and a plan for delivering the Increment. It is a real-time, detailed plan by the Developers, updated throughout the Sprint to track progress and achieve the Sprint Goal.
+The Sprint Goal is in the Sprint Backlog, selected Product Backlog items, and a plan for delivering the Increment.\
+It is a real-time, detailed plan by the Developers, updated throughout the Sprint to track progress and achieve the Sprint Goal.
 
 ## Commitment: Sprint Goal
 
-The Sprint Goal is the **main objective** for the Sprint, providing flexibility in the work needed to achieve it and fostering team coherence and focus. Created during Sprint Planning and added to the Sprint Backlog, it guides the Developers, who collaborate with the Product Owner to adjust the scope if needed without changing the Sprint Goal.
+The Sprint Goal is the **main objective** for the Sprint, providing flexibility in the work needed to achieve it and fostering team coherence and focus.\
+Created during Sprint **Planning** and added to the Sprint **Backlog**, it guides the Developers, who collaborate with the Product Owner to adjust the scope if needed without changing the Sprint Goal.
 
 ## Increment
 
@@ -250,12 +253,12 @@ An Increment is a **verified, usable step** toward the Product Goal, additive to
 ## Commitment: Definition of Done
 
 The Definition of Done is a formal description of the Increment's quality standards, ensuring transparency and shared understanding.
-If a Product Backlog item meets this Definition of Done, it becomes an Increment; otherwise, it returns to the backlog.
+If a Product Backlog item meets this Definition of Done, it becomes an **Increment**; otherwise, it returns to the backlog.
 All Scrum Teams must adhere to the Definition of Done, whether it's an organizational standard or created by the team.
 
 ## End Note
 
-Scrum is freely available in this Guide, is immutable and must be implemented in its entirety to be considered Scrum.
+Scrum is freely available in this Guide, is immutable and must be implemented in its entirety to be considered Scrum.\
 It serves as a framework that can incorporate other techniques, methodologies, and practices.
 
 ## People
@@ -264,8 +267,7 @@ Jeff Sutherland, Jeff McKenna, John Scumniotales, Ken Schwaber, Mike Smith, and 
 
 ## Scrum Guide History
 
-Ken Schwaber and Jeff Sutherland first presented Scrum at the **1995 OOPSLA Conference**, formalizing their previous learnings.
-The Scrum Guide, developed by them over 30 years, documents Scrum, while other sources offer complementary insights to enhance its effectiveness.
+Ken Schwaber and Jeff Sutherland first presented Scrum at the **1995 OOPSLA Conference**, formalizing their previous learnings. The Scrum Guide, developed by them over 30 years, documents Scrum, while other sources offer complementary insights to enhance its effectiveness.
 
 ## Take-a-ways
 
