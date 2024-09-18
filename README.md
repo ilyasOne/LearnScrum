@@ -51,7 +51,7 @@ Preparing for the Scrum Master certification exam requires a structured approach
 
 - **For CSM**: Scrum Alliance provides mock tests.
 - **For PSM**:
-      -  By AI generated multiple choice questions based on the theory of the guides [here](DocFiles/ScrumGuideMultipleChoiceQuestions.pdf)
+      -  By AI generated multiple choice questions based on the theory of the guides [here](DocFiles/ScrumGuideMultipleChoiceQuestions.pdf)\
       -  Scrum.org offers open assessments [here](https://www.scrum.org/open-assessments)\
 
 ### 6. **Prepare for Specific Exam Types**
