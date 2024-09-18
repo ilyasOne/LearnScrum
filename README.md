@@ -38,9 +38,9 @@ Preparing for the Scrum Master certification exam requires a structured approach
 ### 4. **Study Materials**
 
 - **Scrum Guide**: Read and understand the Scrum Guide [here](https://www.scrum.org/learning-series/what-is-scrum/what-is-scrum). It's a foundational document for most certifications, especially PSM. Or read the **summarized** version [here](ScrumGuideSummarized.md)
-- **Agile books**:\
-  - *“Scrum: The Art of Doing Twice the Work in Half the Time”* by Jeff Sutherland [on Amazon](https://www.amazon.com/Scrum-Doing-Twice-Work-Half/dp/038534645X)\
-  - *“Essential Scrum”* by Kenneth Rubin [on Amazon](https://www.amazon.com/Essential-Scrum-Practical-Addison-Wesley-Signature/dp/0137043295)\
+- **Agile books**:
+  - *“Scrum: The Art of Doing Twice the Work in Half the Time”* by Jeff Sutherland [on Amazon](https://www.amazon.com/Scrum-Doing-Twice-Work-Half/dp/038534645X)
+  - *“Essential Scrum”* by Kenneth Rubin [on Amazon](https://www.amazon.com/Essential-Scrum-Practical-Addison-Wesley-Signature/dp/0137043295)
   - And many other scrum books [on Amazon](https://www.amazon.com/s?k=scrum+books&i=stripbooks&crid=31F488GPJ81J1&sprefix=Scrum+%2Cstripbooks%2C170&ref=nb_sb_ss_ts-doa-p_2_6)
 
 - **Scrum forums and communities**: Join communities like the Scrum.org **forums** to learn from real-world experiences.
