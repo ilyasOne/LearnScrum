@@ -6,7 +6,9 @@ The **Scrum Team** is typically composed of three key roles (later explained):
 
 - Product Owner
 - Scrum Master
-- Development Team (=is cross-functional).
+- Development Team (=cross-functional)
+
+---
 
 ## Scrum Definition
 
@@ -15,20 +17,22 @@ adaptive solutions for complex problems.
 
 Scrum involves a Scrum Master creating an environment where:
 
-- the **Product Owner** prioritizes tasks in a Product Backlog
-- the **Scrum Team** completes selected tasks in a Sprint (=**a time-boxed period** usually 2-4 weeks)
-- Both the **team and stakeholders** review and adjust for the next Sprint
+- The **Product Owner** orders (and prioritizes) the work for a complex problem into a Product Backlog.
+- The **Scrum Team** turns a selection of the work into an **Increment** of value during a Sprint (=**a time-boxed period** usually 2-4 weeks)
+- Both the **Scrum Team** and its **stakeholders** inspect (reviews) the results and adjust for the next Sprint.
 - And **repeating** this cycle continuously.
 
-Scrum is **simple** and should be tried as is to see if it helps achieve goals and create value.\
-The Scrum framework is **purposefully incomplete**, defining only the necessary parts to implement Scrum theory.\
+Scrum is **simple** and should be tried as is to see if its philosophy, theory, and structure helps achieve goals and create value.\
+The [Scrum framework](docfiles/Scrum-Framework-with-sdo-logo-9.29.23.pdf) is **purposefully incomplete**, defining only the necessary parts to implement Scrum theory.\
 It is built upon the **collective intelligence** of its users.\
-The rules guide **relationships and interactions** rather than providing detailed instructions.
+The rules of Scrum guide **relationships and interactions** rather than providing detailed instructions.
 
 - Various **processes, techniques, and methods** can be used within the Scrum framework.
-- Scrum **integrates** with existing practices or makes them unnecessary.
-- It **highlights the effectiveness** of current management, environment, and work techniques.
+- Scrum **wraps** with existing practices or makes them unnecessary.
+- Scrum **makes visible** the relative efficacy of current management, environment, and work techniques, so that improvements can be made.
 - This **visibility** allows for continuous improvements.
+
+---
 
 ## Scrum Theory
 
@@ -37,10 +41,42 @@ Scrum is founded on **empiricism** and **lean thinking**.
 - **Empiricism** asserts that knowledge comes from experience and making decisions based on what is observed.
 - **Lean thinking** reduces waste and focuses on the essentials.
 
-Scrum uses an **iterative, incremental approach to optimize predictability and control risk**.\
-It **engages groups** with all necessary skills and expertise to complete the work.\
+Scrum uses an **iterative, incremental approach** to optimize predictability and control risk.\
+Scrum **engages groups** with all necessary skills and expertise to complete the work.\
 Scrum Team members **share or acquire** skills as needed.\
-Scrum combines **four formal events** for inspection and adaptation within a containing event, the Sprint.
+Scrum combines **four formal events** for inspection and adaptation within a containing event, the Sprint.\
+These events work because they implement the empirical Scrum pillars of transparency, inspection, and adaptation.
+
+---
+
+## Transparency
+
+The emergent process and work **must be visible** to those performing the work as well as those receiving the work.\
+With Scrum, important decisions are based on the perceived state of its three formal [artifacts](#scrum-).\
+Artifacts that have low transparency can lead to decisions that diminish value and increase risk.\
+Transparency enables inspection. Inspection without transparency is misleading and wasteful.
+
+---
+
+## Inspection
+
+The Scrum **artifacts** and the **progress** toward **agreed goals** must be inspected frequently and diligently (thoroughly) to detect potentially undesirable variances or problems.
+**Inspection enables adaptation**. Inspection without adaptation is considered pointless.
+Scrum events are designed to provoke change.
+
+---
+
+## Adaptation
+
+If any aspects of a process deviate outside acceptable limits or if the resulting product is unacceptable,
+the process being applied or the materials being produced **must be adjusted**.
+The adjustment must be made **as soon as possible** to minimize further deviation.
+Adaptation becomes more difficult when the people involved are **not empowered or self-managing**.
+A Scrum Team is expected to adapt the moment it learns **anything** new through inspection.
+
+---
+
+## Four formal key events
 
 In Scrum, a popular [Agile framework](docfiles/Agile-Framework.png) for managing complex projects, there are **four formal key events** that occur within each Sprint (**a time-boxed period** usually 2-4 weeks, during which a specific set of work is completed).
 
@@ -63,6 +99,8 @@ Here's a breakdown of **The three pillars of Scrum**:
 - **Adaptation**: Making changes promptly to reduce any further deviation from the goal.
 
 By adhering to these principles, Scrum teams can continuously improve and deliver valuable products incrementally.
+
+## Scrum Artifacs
 
 In Scrum, key decisions rely on the perceived condition of its **three formal artifacts**, artifacts are;
 
@@ -290,3 +328,6 @@ People are personally committed to achieving the goals of the **Scrum Team**.
 ## OPENNESS
 
 The **Scrum Team** and its stakeholders agree to be open about **all work** and the **challenges** of doing the work.
+
+---
+Disclaimer: This information is provided for general informational purposes only and you cannot derive any rights from this communication.

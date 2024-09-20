@@ -85,3 +85,6 @@ Preparing for the Scrum Master certification exam requires a structured approach
 By focusing on theory, practical experience, and mock exams, you’ll be well-prepared to take and pass your Scrum Master exam.
 
 Succes!
+
+---
+Disclaimer: This information is provided for general informational purposes only and you cannot derive any rights from this communication.
