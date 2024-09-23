@@ -150,32 +150,34 @@ The Developers are always accountable for:
 ## Product Owner
 
 The Product Owner is accountable for maximizing the value of the product resulting from the work of the Scrum Team.
-How this is done may vary widely across organizations, Scrum Teams, and individuals
+How this is done may vary widely across organizations, Scrum Teams, and individuals.
 
-The Product Owner is also responsible for effective Product Backlog management, which involves:
+The Product Owner is also responsible for effective **Product Backlog management**, which involves:
 
-- Developing and clearly communicating the **Product Goal**.
+- Developing and explicitly communicating the **Product Goal**.
 - Creating and clearly communicating **Product Backlog** items.
 - Ordering (and prioritizing) Product **Backlog items**.
 - Ensuring the Product Backlog is **transparent, visible, and understood**.
 
 The Product Owner may do the above work or may delegate the responsibility to others. Regardless, the Product Owner **remains** accountable.
 
-For Product Owners to succeed, the entire organization must respect their decisions. These decisions are visible in the content and ordering of the Product Backlog, and through the inspectable Increment at the Sprint Review.\
+For Product Owners to succeed, the entire organization must respect their decisions. These decisions are visible in the content and ordering of the Product Backlog, and through the inspectable Increment at the Sprint Review.
+
 The Product Owner is **one person**, not a committee and is responsible for the Product Backlog.
 
 ---
 
 ## The Scrum Master
 
-The Scrum Master is responsible for establishing Scrum as outlined in the Scrum Guide by helping everyone understand Scrum theory and practice, both within the Scrum Team and the organization. Additionally, the Scrum Master ensures that the Scrum Team improves its practices within the Scrum framework.
+The Scrum Master is responsible for establishing Scrum as outlined in the Scrum Guide, by helping everyone understand Scrum theory and practice, both within the Scrum Team and the organization.
+Additionally, the Scrum Master ensures that the Scrum Team improves its practices within the Scrum framework.
 
-Scrum Masters are true leaders who serve the Scrum Team and the larger organization.
+Scrum Masters are true leaders who **serve** the Scrum Team and the larger organization.
 
 *The Scrum Master* serves (supports) the **Scrum Team** in various ways, including:
 
 - **Coaching** the team members in self-management and cross-functionality
-- **Helping** the Scrum Team focus on creating high-value Increments that meet the Definition of Done
+- **Helping** the Scrum **Team** focus on creating high-value Increments that meet the Definition of Done
 - **Causing** the removal of impediments to the Scrum Team’s progress
 - Ensuring that all **Scrum events** take place and are positive, productive, and kept **within the timebox**.
 
@@ -199,27 +201,9 @@ Scrum Masters are true leaders who serve the Scrum Team and the larger organizat
 
 The Sprint is a **container** for all other events. Each event in Scrum is a formal opportunity to **inspect** and **adapt** Scrum artifacts.\
 These events are specifically designed to enable the **transparency** required.\
-**Failure to operate any events** as prescribed results in lost opportunities to inspect and adapt.
-**Events** are used in Scrum to create **regularity** and **to minimize** the need for meetings not defined in Scrum.
-**Optimally**, all events are held at the same time and place to reduce complexity.
-
----
-
-## Four formal key events
-
-In Scrum, a popular [Agile framework](docfiles/Agile-Framework.png) for managing complex projects, there are **four formal key events** that occur within each Sprint (**a time-boxed period** usually 2-4 weeks, during which a specific set of work is completed).
-
-Here's a breakdown of **four formal Sprint events**:
-
-1. **[Sprint Planning](#sprint-planning)**: This event kicks off the Sprint. The team collaborates to define what can be delivered in the upcoming Sprint and how that work will be achieved. This ensures transparency about the team's goals and plans.
-
-2. **[Daily Scrum](#daily-scrum)**: A short, daily meeting (usually 15 minutes) where team members inspect their progress towards the Sprint Goal and adapt their plan for the next 24 hours. This promotes transparency and allows for quick adjustments.
-
-3. **[Sprint Review](#sprint-review)**: Held at the end of the Sprint, this event involves the team presenting the work completed during the Sprint to stakeholders. Feedback is gathered, which helps in inspecting the outcome and adapting future work.
-
-4. **[Sprint Retrospective](#sprint-retrospective)**: This is the final event of the Sprint, where the team reflects on the past Sprint to identify improvements. They discuss what went well, what didn't, and how processes can be adapted to improve future Sprints.
-
-These events are all contained within the Sprint, which acts as a container event.
+**Failure to operate any events** as prescribed results in lost opportunities to inspect and adapt.\
+**Events** are used in Scrum to create **regularity** and **to minimize** the need for meetings not defined in Scrum.\
+**Optimally**, all events are held at the **same time and place** to reduce complexity.
 
 ---
 
@@ -258,6 +242,24 @@ Only what has already happened may be used for forward-looking decision making.
 
 A Sprint could be cancelled if the **Sprint Goal** becomes **obsolete**.\
 Only the **Product Owner** has the **authority** to cancel the Sprint.
+
+---
+
+## Four formal key events
+
+In Scrum, a popular [Agile framework](docfiles/Agile-Framework.png) for managing complex projects, there are **four formal key events** that occur within each Sprint (**a time-boxed period** usually 2-4 weeks, during which a specific set of work is completed).
+
+Here's a breakdown of **four formal Sprint events**:
+
+1. **[Sprint Planning](#sprint-planning)**: This event kicks off the Sprint. The team collaborates to define what can be delivered in the upcoming Sprint and how that work will be achieved. This ensures transparency about the team's goals and plans.
+
+2. **[Daily Scrum](#daily-scrum)**: A short, daily meeting (usually 15 minutes) where team members inspect their progress towards the Sprint Goal and adapt their plan for the next 24 hours. This promotes transparency and allows for quick adjustments.
+
+3. **[Sprint Review](#sprint-review)**: Held at the end of the Sprint, this event involves the team presenting the work completed during the Sprint to stakeholders. Feedback is gathered, which helps in inspecting the outcome and adapting future work.
+
+4. **[Sprint Retrospective](#sprint-retrospective)**: This is the final event of the Sprint, where the team reflects on the past Sprint to identify improvements. They discuss what went well, what didn't, and how processes can be adapted to improve future Sprints.
+
+These events are all contained within the Sprint, which acts as a container event.
 
 ---
 
