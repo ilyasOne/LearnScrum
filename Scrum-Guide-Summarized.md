@@ -117,38 +117,21 @@ When these values are embodied by the Scrum Team and the people they work with, 
 
 ---
 
-## Four formal key events
-
-In Scrum, a popular [Agile framework](docfiles/Agile-Framework.png) for managing complex projects, there are **four formal key events** that occur within each Sprint (**a time-boxed period** usually 2-4 weeks, during which a specific set of work is completed).
-
-Here's a breakdown of **four formal Sprint events**:
-
-1. **[Sprint Planning](#sprint-planning)**: This event kicks off the Sprint. The team collaborates to define what can be delivered in the upcoming Sprint and how that work will be achieved. This ensures transparency about the team's goals and plans.
-
-2. **[Daily Scrum](#daily-scrum)**: A short, daily meeting (usually 15 minutes) where team members inspect their progress towards the Sprint Goal and adapt their plan for the next 24 hours. This promotes transparency and allows for quick adjustments.
-
-3. **[Sprint Review](#sprint-review)**: Held at the end of the Sprint, this event involves the team presenting the work completed during the Sprint to stakeholders. Feedback is gathered, which helps in inspecting the outcome and adapting future work.
-
-4. **[Sprint Retrospective](#sprint-retrospective)**: This is the final event of the Sprint, where the team reflects on the past Sprint to identify improvements. They discuss what went well, what didn't, and how processes can be adapted to improve future Sprints.
-
-These events are all contained within the Sprint, which acts as a container event.
-
----
-
 ## Scrum Team
 
 The core unit of **Scrum is a small team** known as the Scrum Team. This team includes **one Scrum Master, one Product Owner, and Developers**. There are *NO  sub-teams or hierarchies* within a Scrum Team.\
-Scrum Team is a unified group (cohesive unit) of **professionals** dedicated to a **single objective at a time**: the Product Goal.
+Scrum Team is a unified group (cohesive unit) of **professionals** focused on **one objective at a time**, the Product Goal.
 
-Scrum Teams are **cross-functional**, with members possessing all the skills needed to create value each Sprint.\
+Scrum Teams are **cross-functional**, meaning the members have all the skills necessary to create value
+each Sprint.
 They are also **self-managing**, deciding internally who does what, when, and how.
 
-The Scrum Team is small enough to remain nimble and large enough to complete significant work within a Sprint, typically 10 or fewer people. Smaller teams communicate more effectively and are more productive. If Scrum Teams grow too large, they should consider splitting into multiple cohesive Scrum Teams, each focused on the same product. These teams should **share** the same Product **Goal**, Product **Backlog**, and Product **Owner**.
+The Scrum Team is small enough to remain nimble and large enough to complete significant work within a Sprint, typically 10 or fewer people. Smaller teams communicate more effectively and are more productive. If Scrum Teams grow too large, they should consider splitting into **multiple cohesive** Scrum Teams, each focused on the same product. These teams should **share** the same Product **Goal**, Product **Backlog**, and Product **Owner**.
 
-The Scrum Team handles (is responsible) for all product-related tasks, including stakeholder collaboration, verification, maintenance, operation, experimentation, research and development, and any other necessary activities.\
-They are structured and empowered by the organization to manage their own work. Working in Sprints at a sustainable pace improves the Scrum Team’s focus and consistency
+The Scrum Team is responsible for all product-related tasks, including stakeholder collaboration, verification, maintenance, operation, experimentation, research and development, and any other necessary activities that might be required.
+They are structured and **empowered by the organization** to manage their own work. Working in Sprints at a sustainable pace improves the Scrum Team’s focus and consistency
 
-The whole Scrum Team (the Developers, the Product Owner, and the Scrum Master) is responsible (accountable) for delivering a valuable and useful Increment at the end of each Sprint.
+The entire Scrum Team (the Developers, the Product Owner, and the Scrum Master are) is accountable (are responsible) for delivering a valuable and useful Increment at the end of each Sprint.
 
 ---
 
@@ -157,9 +140,9 @@ The whole Scrum Team (the Developers, the Product Owner, and the Scrum Master) i
 Developers are the people in the Scrum Team that are committed to creating any aspect of a usable Increment each Sprint.
 The Developers are always accountable for:
 
-- **Creating a plan** for the Sprint, the Sprint Backlog
-- Ensuring (instilling) **quality** by following (adhering) the Definition of Done
-- Adjusting (Adapting) their plan daily to achieve the Sprint Goal.
+- **Creating a plan** for the Sprint, the Sprint Backlog.
+- Instilling (ensuring) quality by adhering (according) to a Definition of Done.
+- Adjusting (adapting) their plan daily to achieve the Sprint Goal.
 - Holding each other accountable as professionals.
 
 ---
@@ -219,6 +202,24 @@ These events are specifically designed to enable the **transparency** required.\
 **Failure to operate any events** as prescribed results in lost opportunities to inspect and adapt.
 **Events** are used in Scrum to create **regularity** and **to minimize** the need for meetings not defined in Scrum.
 **Optimally**, all events are held at the same time and place to reduce complexity.
+
+---
+
+## Four formal key events
+
+In Scrum, a popular [Agile framework](docfiles/Agile-Framework.png) for managing complex projects, there are **four formal key events** that occur within each Sprint (**a time-boxed period** usually 2-4 weeks, during which a specific set of work is completed).
+
+Here's a breakdown of **four formal Sprint events**:
+
+1. **[Sprint Planning](#sprint-planning)**: This event kicks off the Sprint. The team collaborates to define what can be delivered in the upcoming Sprint and how that work will be achieved. This ensures transparency about the team's goals and plans.
+
+2. **[Daily Scrum](#daily-scrum)**: A short, daily meeting (usually 15 minutes) where team members inspect their progress towards the Sprint Goal and adapt their plan for the next 24 hours. This promotes transparency and allows for quick adjustments.
+
+3. **[Sprint Review](#sprint-review)**: Held at the end of the Sprint, this event involves the team presenting the work completed during the Sprint to stakeholders. Feedback is gathered, which helps in inspecting the outcome and adapting future work.
+
+4. **[Sprint Retrospective](#sprint-retrospective)**: This is the final event of the Sprint, where the team reflects on the past Sprint to identify improvements. They discuss what went well, what didn't, and how processes can be adapted to improve future Sprints.
+
+These events are all contained within the Sprint, which acts as a container event.
 
 ---
 
