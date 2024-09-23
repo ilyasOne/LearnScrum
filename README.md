@@ -19,7 +19,7 @@ Preparing for the Scrum Master certification exam requires a structured approach
 
    Familiarize yourself with the core concepts of Scrum, including:
 
-- **Scrum Guide**: [Scrum.org](https://www.scrum.org/resources/scrum-guide) or download here [PDF](DocFiles/2020-Scrum-Guide-US.pdf) or read **Summarized** version [here](ScrumGuideSummarized.md)
+- **Scrum Guide**: [Scrum.org](https://www.scrum.org/resources/scrum-guide) or download here [PDF](DocFiles/2020-Scrum-Guide-US.pdf) or read **Summarized** version [here](Scrum-Guide-Summarized.md)
 - **Scrum framework**:
       -  **Roles** (Scrum Master, Product Owner, Development Team)
       -  **Events** (Sprint, Sprint Planning, Daily Scrum, Sprint Review, Sprint Retrospective)
@@ -37,7 +37,7 @@ Preparing for the Scrum Master certification exam requires a structured approach
 
 ### 4. **Study Materials**
 
-- **Scrum Guide**: Read and understand the Scrum Guide [here](https://www.scrum.org/learning-series/what-is-scrum/what-is-scrum). It's a foundational document for most certifications, especially PSM. Or read the **summarized** version [here](ScrumGuideSummarized.md)
+- **Scrum Guide**: Read and understand the Scrum Guide [here](https://www.scrum.org/learning-series/what-is-scrum/what-is-scrum). It's a foundational document for most certifications, especially PSM. Or read the **summarized** version [here](Scrum-Guide-Summarized.md)
 - **Agile books**:
   - *“Scrum: The Art of Doing Twice the Work in Half the Time”* by Jeff Sutherland [on Amazon](https://www.amazon.com/Scrum-Doing-Twice-Work-Half/dp/038534645X)
   - *“Essential Scrum”* by Kenneth Rubin [on Amazon](https://www.amazon.com/Essential-Scrum-Practical-Addison-Wesley-Signature/dp/0137043295)
@@ -85,3 +85,6 @@ Preparing for the Scrum Master certification exam requires a structured approach
 By focusing on theory, practical experience, and mock exams, you’ll be well-prepared to take and pass your Scrum Master exam.
 
 Succes!
+
+---
+Disclaimer: This information is provided for general informational purposes only and you cannot derive any rights from this communication.
