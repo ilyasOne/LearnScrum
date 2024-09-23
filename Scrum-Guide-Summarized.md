@@ -1,4 +1,4 @@
-# Scrum Guide Summarized
+# Scrum Guide Summarized (and conceptualized)
 
 A **Scrum Team** is a group of individuals working together to deliver the products and solutions in an [Agile](AgileMenifesto.md) environment using the [Scrum framework](DocFiles/Scrum-Framework-with-sdo-logo-9.29.23.pdf).
 
@@ -15,15 +15,15 @@ The **Scrum Team** is typically composed of three key roles (later explained):
 We developed Scrum in the **early 1990s**. We wrote the first version of the Scrum Guide **in 2010** to help
 people worldwide understand Scrum.
 We have evolved the Guide since then through small, functional updates. Together, we stand behind it.
-Changing the core design or ideas of Scrum, leaving out elements, or not following the rules of Scrum, covers up problems and limits the benefits of Scrum, potentially even rendering it useless.
-We use the word “developers” in Scrum not to exclude, but to simplify. If you get value from Scrum, consider yourself included.
+Changing the core design or ideas of Scrum, leaving out elements, or **not** following the rules of Scrum, covers up problems and limits the benefits of Scrum, potentially even rendering it useless.
+We use the word “developers” in Scrum **not** to exclude, but to simplify. If you get value from Scrum, consider yourself included.
 As Scrum is used, patterns, processes, and insights that align with the Scrum framework described in this document may be discovered, applied, and developed.
 
 ---
 
 ## Scrum Definition
 
-Scrum is a lightweight framework that helps people, teams and organizations generate value through
+Scrum is a **lightweight** framework that helps people, teams and organizations generate value through
 adaptive solutions for complex problems.
 
 Scrum requires a Scrum Master to foster an environment where:
@@ -33,7 +33,7 @@ Scrum requires a Scrum Master to foster an environment where:
 3. The **Scrum Team and its stakeholders** inspect (reviews) the results and adjust for the next Sprint.
 4. And **repeating** this cycle continuously.
 
-Scrum is simple. Try it as is to see if its philosophy, theory, and structure help achieve goals and create value. The [**Scrum framework**](docfiles/Scrum-Framework-with-sdo-logo-9.29.23.pdf) is purposefully incomplete, defining **only** the necessary parts to implement Scrum theory.
+**Scrum is simple**. Try it as is to see if its philosophy, theory, and structure help achieve goals and create value. The [**Scrum framework**](docfiles/Scrum-Framework-with-sdo-logo-9.29.23.pdf) is purposefully incomplete, defining **only** the necessary parts to implement Scrum theory.
 Scrum is built upon by the **collective intelligence of the people using** it.
 Rather, than provide people with detailed instructions, the rules of Scrum guide their relationships and
 interactions.
@@ -53,10 +53,8 @@ Scrum is founded on **empiricism** and **lean thinking**.
 Scrum employs an **iterative, incremental approach** to optimize predictability and to control risk.
 Scrum **engages groups of people** who collectively have all the skills and expertise to do the work and share or
 acquire such skills as needed.
-Scrum combines [four formal events](#four-formal-key-events) for inspection and adaptation within a containing event, the Sprint.
-These events work because they implement the three empirical Scrum pillars of **transparency, inspection, and adaptation**.
-
----
+Scrum combines [four formal events](#four-formal-key-events) for inspection and adaptation within a containing event, [**the Sprint**](#the-sprint).
+These events work because they implement the three *empirical Scrum pillars* of **transparency, inspection, and adaptation**.
 
 Here's a breakdown of **The three pillars of Scrum**:
 
@@ -64,7 +62,7 @@ Here's a breakdown of **The three pillars of Scrum**:
 - **Inspection**: Consistently monitoring progress towards a goal to identify any deviations (=action of departing from an established accepted standard).
 - **Adaptation**: Making changes promptly to reduce any further deviation from the goal.
 
-By adhering to these principles, Scrum teams can continuously improve and deliver valuable products incrementally.\
+By adhering to these principles, Scrum teams can **continuously improve** and deliver valuable products incrementally.\
 When the artifacts **lack transparency**, it can result in decisions that reduce value and heighten risk.\
 
 ---
@@ -80,7 +78,7 @@ Transparency **enables** inspection. Inspection without transparency is misleadi
 
 ## Inspection
 
-The [**Scrum artifacts**](#scrum-artifacts) and the progress toward agreed goals must be inspected (frequently) **regularly** and diligently (**thoroughly**) **to detect** potentially undesirable variances or problems.
+The [**Scrum artifacts**](#scrum-artifacts) and the progress toward agreed goals must be inspected frequently (regularly) and diligently (**thoroughly**) **to detect** potentially undesirable variances or problems.
 To facilitate inspection, Scrum provides cadence through its **five events**.
 
 - [The Sprint](#the-sprint)
@@ -97,9 +95,9 @@ Scrum events are designed to **provoke** change.
 ## Adaptation
 
 If any aspects of a process deviate outside acceptable limits or if the resulting product is unacceptable,
-the process being applied or the materials being produced **must be adjusted**.\
-The adjustment **must be made as soon as possibl**e to minimize further deviation.
-**Adaptation** becomes more **difficult** when the people involved **are not empowered or self-managing**.\
+the process being applied or the materials being produced **must be adjusted**.
+The adjustment **must be made as soon as possible** to minimize further deviation.
+**Adaptation** becomes more **difficult** when the people involved **are not empowered or self-managing**.
 A **Scrum Team** is expected to adapt the moment it learns anything new through inspection.
 
 ---
@@ -108,11 +106,11 @@ A **Scrum Team** is expected to adapt the moment it learns anything new through 
 
 Successful use of Scrum depends on people becoming more proficient in living five values:
 
-- **Commitment**: The Scrum Team is dedicated (commits) to reaching its goals and helping one another.
-- **Focus**: The Scrum Team main focus is on the Sprint work to achieve the best possible progress toward these goals.
-- **Openness**: The Scrum Team and its stakeholders are clear about the work and the challenges they face.
-- **Respect**: The Scrum Team members respect each other as capable, independent individuals and are respected in the same way by their colleagues.
-- **Courage**: The Scrum Team members have the courage to do the right thing and tackle difficult problems.
+- **Commitment**: The Scrum Team commits to achieving its goals and to supporting each other.
+- **Focus**: The primary focus is on the work of the Sprint to make the best possible progress toward these goals.
+- **Openness**: The Scrum Team and its stakeholders are open (clear) about the work and the challenges.
+- **Respect**: The Scrum Team members respect each other to be capable, independent people, and are respected as such by the people with whom they work.
+- **Courage**: The Scrum Team members have the courage to do the right thing, to work on tough problems.
 
 The Scrum Team members learn and explore the values as they work with the Scrum events and artifacts.
 When these values are embodied by the Scrum Team and the people they work with, the empirical Scrum pillars of transparency, inspection, and adaptation come to life building trust.
