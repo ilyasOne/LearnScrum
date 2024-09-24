@@ -33,7 +33,7 @@ Scrum requires a Scrum Master to foster an environment where:
 3. The **Scrum Team and its stakeholders** inspect (reviews) the results and adjust for the next Sprint.
 4. And **repeating** this cycle continuously.
 
-**Scrum is simple**. Try it as is to see if its philosophy, theory, and structure help achieve goals and create value. The [**Scrum framework**](docfiles/Scrum-Framework-with-sdo-logo-9.29.23.pdf) is purposefully incomplete, defining **only** the necessary parts to implement Scrum theory.
+**Scrum is simple**. Try it as is to see if its philosophy, theory, and structure help achieve goals and create value. The [**Scrum framework**](DocFiles/Scrum-Framework-with-sdo-logo-9.29.23.pdf) is purposefully incomplete, defining **only** the necessary parts to implement Scrum theory.
 Scrum is built upon by the **collective intelligence of the people using** it.
 Rather, than provide people with detailed instructions, the rules of Scrum guide their relationships and
 interactions.
@@ -63,14 +63,14 @@ Here's a breakdown of **The three pillars of Scrum**:
 - **Adaptation**: Making changes promptly to reduce any further deviation from the goal.
 
 By adhering to these principles, Scrum teams can **continuously improve** and deliver valuable products incrementally.\
-When the artifacts **lack transparency**, it can result in decisions that reduce value and heighten risk.\
+When the [**artifacts**](#scrum-artifacts) **lack transparency**, it can result in decisions that reduce value and heighten risk.
 
 ---
 
 ## Transparency
 
 The emergent process and work **must be visible** to those performing the work as well as those receiving the work.
-With Scrum, important decisions are based on the perceived state of its three formal [**Artifacts**](#scrum-artifacts).
+With Scrum, important decisions are based on the perceived state of its three formal [**artifacts**](#scrum-artifacts).
 **Artifacts** that have low transparency can lead to decisions that diminish value and increase risk.
 Transparency **enables** inspection. Inspection without transparency is misleading and wasteful.
 
@@ -112,7 +112,7 @@ Successful use of Scrum depends on people becoming more proficient in living fiv
 - **Respect**: The Scrum Team members respect each other to be capable, independent people, and are respected as such by the people with whom they work.
 - **Courage**: The Scrum Team members have the courage to do the right thing, to work on tough problems.
 
-The Scrum Team members learn and explore the values as they work with the Scrum events and artifacts.
+The Scrum Team members learn and explore the **values** as they work with the **Scrum events and artifacts**.
 When these values are embodied by the Scrum Team and the people they work with, the empirical Scrum pillars of transparency, inspection, and adaptation come to life building trust.
 
 ---
@@ -128,8 +128,8 @@ They are also **self-managing**, deciding internally who does what, when, and ho
 
 The Scrum Team is small enough to remain nimble and large enough to complete significant work within a Sprint, typically 10 or fewer people. Smaller teams communicate more effectively and are more productive. If Scrum Teams grow too large, they should consider splitting into **multiple cohesive** Scrum Teams, each focused on the same product. These teams should **share** the same Product **Goal**, Product **Backlog**, and Product **Owner**.
 
-The Scrum Team is responsible for all product-related tasks, including stakeholder collaboration, verification, maintenance, operation, experimentation, research and development, and any other necessary activities that might be required.
-They are structured and **empowered by the organization** to manage their own work. Working in Sprints at a sustainable pace improves the Scrum Team’s focus and consistency
+The **Scrum Team** is **responsible** for all product-related tasks, including stakeholder collaboration, verification, maintenance, operation, experimentation, research and development, and any other necessary activities that might be required.
+They are structured and **empowered by the organization** to manage their own work. Working in Sprints at a sustainable pace improves the Scrum Team’s focus and consistency.
 
 The entire Scrum Team (the Developers, the Product Owner, and the Scrum Master are) is accountable (are responsible) for delivering a valuable and useful Increment at the end of each Sprint.
 
@@ -183,9 +183,9 @@ Scrum Masters are true leaders who **serve** the Scrum Team and the larger organ
 
 *The Scrum Master* servers the **Product Owner** in various ways, including:
 
-- **Helping** find techniques for effective Product **Goal** definition and Product **Backlog management**
+- **Helping** find techniques for effective **Product Goal** definition and Product **Backlog management**
 - **Helping** the Scrum Team understand the need for clear and concise Product **Backlog items**
-- **Helping** establish empirical product planning for a complex environment
+- **Helping** establish empirical **product planning** for a complex environment
 - Facilitating **stakeholder** collaboration as requested or needed.
 
 *The Scrum Master* serves the **organization** by:
@@ -247,7 +247,7 @@ Only the **Product Owner** has the **authority** to cancel the Sprint.
 
 ## Four formal key events
 
-In Scrum, a popular [Agile framework](docfiles/Agile-Framework.png) for managing complex projects, there are **four formal key events** that occur within each Sprint (**a time-boxed period** usually 2-4 weeks, during which a specific set of work is completed).
+In Scrum, a popular [Agile framework](DocFiles/Agile-Framework.png) for managing complex projects, there are **four formal key events** that occur within each Sprint (**a time-boxed period** usually 2-4 weeks, during which a specific set of work is completed).
 
 Here's a breakdown of **four formal Sprint events**:
 
@@ -440,6 +440,14 @@ Scrum exists only in its entirety and functions well as a container for other te
 ---
 
 ## Acknowledgements
+
+## Timeboxes
+
+ Sprint Planning = eight (8h)
+ Sprint Review  = four (4h)
+ Sprint Retrospective  = three (3h)
+
+ Hours are timeboxed to a maximum for a one-month Sprint
 
 ## People
 
