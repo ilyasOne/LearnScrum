@@ -193,7 +193,7 @@ Scrum Masters are true leaders who **serve** the Scrum Team and the larger organ
 - **Leading**, training, and coaching in Scrum adoption.
 - **Planning and advising** on Scrum implementations.
 - **Helping** employees and stakeholders adopt an empirical approach for complex work.
-- Removing barriers between stakeholders and **Scrum Teams**.
+- Removing barriers between **stakeholders** and **Scrum Teams**.
 
 ---
 
@@ -220,8 +220,7 @@ A new Sprint starts immediately after the conclusion of the previous Sprint.
   - Sprint Planning,
   - Daily Scrums,
   - Sprint Review, and
-  - Sprint Retrospective,
-  happen within Sprints.
+  - Sprint Retrospective, happen within Sprints.
 
 During the Sprint:
 
@@ -255,7 +254,7 @@ Here's a breakdown of **four formal Sprint events**:
 
 2. **[Daily Scrum](#daily-scrum)**: A short, daily meeting (usually 15 minutes) where team members inspect their progress towards the Sprint Goal and adapt their plan for the next 24 hours. This promotes transparency and allows for quick adjustments.
 
-3. **[Sprint Review](#sprint-review)**: Held at the end of the Sprint, this event involves the team presenting the work completed during the Sprint to stakeholders. Feedback is gathered, which helps in inspecting the outcome and adapting future work.
+3. **[Sprint Review](#sprint-review)**: Held at the end of the Sprint, this event involves the team presenting the work completed during the Sprint to **stakeholders**. Feedback is gathered, which helps in inspecting the outcome and adapting future work.
 
 4. **[Sprint Retrospective](#sprint-retrospective)**: This is the final event of the Sprint, where the team reflects on the past Sprint to identify improvements. They discuss what went well, what didn't, and how processes can be adapted to improve future Sprints.
 
@@ -268,7 +267,7 @@ These events are all contained within **the Sprint**, which acts as a **containe
 Sprint Planning **initiates** the Sprint by laying out the **work to be performed** for the Sprint.\
 This **resulting plan** is created by the **collaborative** work of the **entire Scrum Team**.
 
-The **Product Owner** ensures that attendees are prepared to discuss **the most important Product Backlog items** and how they map to the Product Goal. The Scrum Team may also invite other people to attend Sprint Planning to provide advice.
+The **Product Owner** ensures that attendees are prepared to discuss **the most important Product Backlog items** and how they map to the Product Goal. The **Scrum Team** may also invite other people to attend Sprint Planning to provide advice.
 
 *Topic 1:* **Why is this Sprint valuable?**
 
@@ -278,8 +277,8 @@ The Sprint Goal must be **finalized** prior to the end of Sprint Planning.
 
 *Topic 2:* **What can be Done this Sprint?**
 
-Through discussion with the Product Owner, the Developers select items from the Product Backlog to include in the current Sprint.\
-The Scrum Team may **refine these items** during this process, which increases understanding and confidence.\
+Through discussion with the **Product Owner**, the **Developers** select items from the Product Backlog to include in the current Sprint.\
+The **Scrum Team** may **refine these items** during this process, which increases understanding and confidence.\
 Selecting how much can be completed within a Sprint may be challenging.\
 However, the more the Developers know about their past performance, their upcoming capacity, and their Definition of Done, the more confident they will be in their Sprint forecasts.
 
@@ -443,8 +442,8 @@ Scrum exists only in its entirety and functions well as a container for other te
 
 ## Timeboxes
 
- Sprint Planning = eight (8h)
- Sprint Review  = four (4h)
+ Sprint Planning  = eight (8h)\
+ Sprint Review    = four (4h)\
  Sprint Retrospective  = three (3h)
 
  Hours are timeboxed to a maximum for a one-month Sprint
