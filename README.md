@@ -28,6 +28,8 @@ Preparing for the Scrum Master certification exam requires a structured approach
    See poster [Scrum Framework](/DocFiles/Scrum-Framework-with-sdo-logo-9.29.23.pdf)
 
 - **Agile Manifesto**: [Here](AgileMenifesto.md) and there [AgileManifesto.org](http://agilemanifesto.org/)
+     - The Agile Team is a self-organizing, self-managing, cross-functional group of 10 or fewer people.
+       
 - **Other resources on GitHub**: [GitHub resources](https://github.com/search?q=scrum+master+study&type=repositories&s=stars&o=desc)
 
 ### 3. **Attend a Course (Optional for Some Exams)**
