@@ -90,4 +90,4 @@ By focusing on theory, practical experience, and mock exams, you’ll be well-pr
 Succes!
 
 ---
-Disclaimer: **This information is provided for general informational purposes only and you cannot derive any rights from this communication.**
+** Disclaimer: This information is provided for general informational purposes only and you cannot derive any rights from this communication.**
