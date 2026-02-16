@@ -90,6 +90,4 @@ By focusing on theory, practical experience, and mock exams, you’ll be well-pr
 Succes!
 
 ---
-Disclaimer: This information is provided for general informational purposes only and you cannot derive any rights from this communication.
-
-Number of visitors: ![Visitor Count](https://counter1.optistats.ovh/private/freecounterstat.php?c=cw9gj432pkthn2lrs8mzwr2gfux1k3e6)
+Disclaimer: **This information is provided for general informational purposes only and you cannot derive any rights from this communication.**
